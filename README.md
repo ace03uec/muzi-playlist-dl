@@ -1,15 +1,15 @@
-% muziPlaylist-dl.py
+% muzi-playlist-dl.py
 
 # NAME
-muziPlaylist-dl - download songs from playlists shared on SDSLabs's Muzi. IIT-Roorkee Campus Only.
+muzi-playlist-dl - download songs from playlists shared on SDSLabs's Muzi. IIT-Roorkee Campus Only.
 
 # USAGE
-user@home:python2 muziPlaylist-dl.py 
+user@home:python2 muzi-playlist-dl.py 
 
 # DESCRIPTION
-**muziPlaylist-dl** is a python script to download songs from the shared playlists off SDSLab's Muzi application (https://muzi.sdslabs.co.in) . Since the application is available inside the campus only, likewise this program is valid inside the IIT Roorkee campus only.
+**muzi-playlist-dl** is a python script to download songs from the shared playlists off SDSLab's Muzi application (https://muzi.sdslabs.co.in) . Since the application is available inside the campus only, likewise this program is valid inside the IIT Roorkee campus only.
 
-**muziPlaylist-dl** is a python2 script. Tested on Ubuntu 14.04 final beta. 
+**muzi-playlist-dl** is a python2 script. Tested on Ubuntu 14.04 final beta. 
 
 # TO DO
 1.Error Handling
