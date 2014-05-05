@@ -12,10 +12,10 @@ user@home:python2 muzi-playlist-dl.py
 **muzi-playlist-dl** is a python2 script. Tested on Ubuntu 14.04 final beta. 
 
 # TO DO
-1.Error Handling
-2.Folder Names to include username as well.
- (Since Multiple users can have similar names for playlists)
-3.Prettify still
-4.Modularise code
-5.Add support for other OS'es
-6.Package into Python App.
+1. Error Handling
+2. Folder Names to include username as well.
+   (Since Multiple users can have similar names for playlists)
+3. Prettify still
+4. Modularise code
+5. Add support for other OS'es
+6. Package into Python App.
